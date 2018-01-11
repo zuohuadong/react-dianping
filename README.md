@@ -1,3 +1,21 @@
+
+## 测试题目 
+
+1. 创建一个新的路由 `ibenchu`
+2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [微信精选接口](https://mobapi.ibenchu.pw/wx/article/category/query?key=1eae6b9688738&area=CN)
+3. 在该项目的首页（豆瓣）加上跳转到这个页面的方式（不得使用A标签跳转）
+
+
+## 注意事项
+
+1. 该测试需独立完成。
+2. 面试有可能现场写vue代码，请勿抱有侥幸心态。
+
+**完成后请将源码以 `zip/tar.gz/tar.xz` 形式发送到heshudong@ibenchu.com 【注意附带简历】**
+
+我们将在三个工作日内给出答复
+
+===============测试题目===================
 ## 说明
 
 根据教程[React高级实战 打造大众点评 WebApp](http://coding.imooc.com/class/99.html)，学习react。
